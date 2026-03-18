@@ -1,0 +1,10 @@
+---
+title: "README"
+output: html_document
+---
+
+Don't put your data tracked inside the Github. Because sometimes it is so big to track.So we will upload it somewhere and then put its link there.
+
+so we will put that folder into the .gitignore to ignore it.
+
+#data/raw
